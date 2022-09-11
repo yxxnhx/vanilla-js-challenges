@@ -1,6 +1,6 @@
 # Vanilla-JS-Challenge-Final
 
-노마드코더 챌린지룰 통해 순수 바닐라 자바스크립트를 이용하여 todo list, log in, weather 서비스를 제공하는 페이지를 만들었습니다
+노마드코더 챌린지를 통해 순수 바닐라 자바스크립트를 이용하여 todo list, log in, weather 서비스를 제공하는 페이지를 만들었습니다
 
 1. display
 ![screencapture-127-0-0-1-5500-todo-index-html-2022-09-11-20_15_17](https://user-images.githubusercontent.com/50559373/189524551-c98b53c1-e20d-4adf-9bb0-a3debaf591dc.png)
