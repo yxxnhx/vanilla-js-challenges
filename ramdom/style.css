@@ -1,0 +1,30 @@
+.number-range {
+  display: flex;
+  align-items: center;
+}
+
+.number-range h2 {
+  margin-right: 10px;
+}
+
+#maxNumber {
+  height: 30px;
+}
+
+.number-game-box {
+  display: flex;
+  height: 50px;
+  align-items: center;
+}
+
+.number-game-box p {
+  margin-right: 10px;
+}
+
+button {
+  margin: 0 10px;
+}
+
+.paintResult {
+  font-weight: bold;
+}

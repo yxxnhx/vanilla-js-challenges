@@ -1,0 +1,19 @@
+.title {
+  color: #fff;
+}
+
+body {
+  background-color: #fff;
+}
+
+.computer {
+  background-color: rgb(244, 220, 0);
+}
+
+.tablet {
+  background-color: purple;
+}
+
+.mobile {
+  background-color: blue;
+}
